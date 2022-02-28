@@ -1,1 +1,2 @@
-El azul es un color
+Hola soy el azul. 
+>>>>>>> 60e17198504aed635d5dd1b89dae1a9e98087cc3
